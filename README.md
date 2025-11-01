@@ -7,7 +7,7 @@ we are meant to be *knowledgeably*, not watchers.
 > *(Surah Al-Mujadila 58:11)*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tomo4t/Tomo4t/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Tomo4t/Tomo4t/banner.png" width="100%">
 </p>
 
 ---

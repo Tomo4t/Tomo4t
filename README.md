@@ -1,7 +1,7 @@
 ## Hey, I'm **Tomo_4t** 👋
 
 I build interactive systems, stories, and tools —  
-things meant to be *used*, not just looked at.
+we are meant to be *knowledgeably*, not watchers.
 
 > **"Allah will raise those who believe among you and those who were given knowledge, by many degrees."**  
 > *(Surah Al-Mujadila 58:11)*
@@ -12,21 +12,21 @@ things meant to be *used*, not just looked at.
 
 ---
 
-### 🜂 Current Projects
+### 📝 Current Projects
 
 #### **The Jewel’s**
-A weep-style comic about *The Jewel family.*  
+A weep-style comic about *The Jewel's family.*  
 Currently building a **custom bilingual comic reader** with **flip + scroll** display modes.
 
 #### **Dumply Roads**
 A cozy **road-building puzzle game**  
-focused on **organic traffic behavior** that feels *alive*, not scripted.
+focused on **Level Design & User Experience** that feels *Right*.
 
 #### **Skys Apart**
-A quiet, eerie, **story-driven metroidvania**, inspired by **dark children’s folklore** (not horror jumpscares).
+A quiet, eerie, **story-driven metroidvania**, inspired by **Old children’s bedtime stories**.
 
 #### **Minecraft Datapacks**
-From *full gameplay systems* to small **mechanical refinements**.  
+From *full gameplay systems* to small minigames.  
 Design clarity > complexity.
 
 ---
